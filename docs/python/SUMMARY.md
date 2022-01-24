@@ -222,7 +222,7 @@
 	+   [NumPy `swapcase()`函数](224.md)
 	+   [NumPy `strip()`函数](225.md)
 	+   [Numpy `partition()`函数](226.md)
-	+   [统计函数](227.md)
+	+   [Numpy 统计函数](227.md)
 	+   [NumPy `amin()`函数](228.md)
 	+   [NumPy `amax()`函数](229.md)
 	+   [NumPy `ptp()`函数](230.md)
