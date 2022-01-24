@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 Error Page - Studytonight</title>
+    <meta name="keywords" content="Core java tutorial, C++ tutorial, C language tutorial, Studytonight, programming tutorials, dbms tutorial, SQL tutorial, computer networks tutorial, operating system tutorial, computer architecture tutorial, servlet tutorial, jsp tutorial, data structure tutorial"/> 
+<meta name="description" content="Studytonight is an online platform which provides easy-to-understand programming tutorials, HTML course, Online tests and a community of programming enthusiasts to discuss and clear doubts.">
+<meta property="og:image" content="http://www.studytonight.com/css/resource/favicon.png"/>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="https://static.studytonight.com/css/min/bootstrap.v2.1642520441.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/css/resource/favicon.png">
+
+  </head>
+
+  <body>
+
+<!-- Fixed navbar -->
+<div class="navbar varela">
+    <div style="margin:0px 15px;">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">
+                                <img style="max-height:48px;" id="brand-icon" src="/css/resource.v2/icons/studytonight/st-icon-dark.png" alt="studytonight.com" title="Take me Home" />
+            </a>
+        </div>
+        <ul class="nav navbar-nav hide-on-small hide-on-bt">
+            <li id="hero-dropdown">
+                <a href="/library/">Tutorials&nbsp;<span style="position:relative;top:-2px;"><img src="/css/resource.v2/icons/basic/Navbar-Arrow-Down.png" style="width:15px;height:auto"></span></a>
+                <div class="nav-hero-dropdown">
+                    <div class="white-container" style="border-radius:2px;box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)">
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">PROGRAMMING</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-4">
+                                        <a href="/java/" class="inverted" alt="Core Java Tutorial">
+                                            <p><span class='jewel malibu-container'></span>Core Java</p>
+                                        </a>
+                                        <a href="/cpp/" class="inverted" alt="C++ Tutorial">
+                                            <p><span class='jewel yellow-container'></span>C++</p>
+                                        </a>
+                                        <a href="/c/" class="inverted" alt="C Language Tutorial">
+                                            <p><span class='jewel cream-container'></span>C Language</p>
+                                        </a>
+                                        <a href="/network-programming-in-python/" class="inverted" alt="Network Programming with Python Tutorial">
+                                            <p><span class='jewel marine-container'></span>Network Programming</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/python/" class="inverted" alt="Python Tutorial">
+                                            <p><span class='jewel marine-container'></span>Python</p>
+                                        </a>
+                                        <a href="/data-structures/" class="inverted" alt="Data Structure Tutorial">
+                                            <p><span class='jewel malibu-light-container'></span>Data Structure</p>
+                                        </a>
+                                        <!--<p><span class='jewel tree-green-container'></span>C#</p>-->
+                                        <a href="/android/" class="inverted" alt="Android Tutorial">
+                                            <p><span class='jewel malibu-container'></span>Android</p>
+                                        </a>
+                                        <a href="/php/" class="inverted" alt="PHP Tutorial">
+                                            <p><span class='jewel light-purple-container'></span>PHP</p>
+                                        </a>
+
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/ruby/" class="inverted" alt="Ruby Tutorial">
+                                            <p><span class='jewel yellow-container'></span>Ruby</p>
+                                        </a>
+                                         <a href="/servlet/" class="inverted" alt="Servlet Tutorial">
+                                            <p><span class='jewel cream-container'></span>Servlet</p>
+                                        </a>
+                                        <a href="/jsp/" class="inverted" alt="JSP Tutorial">
+                                            <p><span class='jewel silver-container'></span>JSP</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr style="margin:0" />
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">WEB</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-4">
+                                        <a href="/code/" class="inverted" alt="HTML Tutorial">
+                                            <p>HTML Course</p>
+                                        </a>
+                                        <a href="/code/playground/" class="inverted" alt="Practice HTML and CSS">
+                                            <p>Web Playground</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/cascading-style-sheet/" class="inverted" alt="CSS Tutorial">
+                                            <p><span class='jewel pink-container'></span>CSS</p>
+                                        </a>
+                                        <a href="/sass/" class="inverted" alt="SASS/SCSS Tutorial">
+                                            <p><span class='jewel light-purple-container'></span>SASS/SCSS</p>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-4">
+                                        <a href="/rest-web-service/" class="inverted" alt="REST Web Service Tutorial">
+                                            <p><span class='jewel malibu-light-container'></span>REST Web Service</p>
+                                        </a>
+                                        <a href="/javascript/" class="inverted" alt="JavaScript Tutorial">
+                                            <p><span class='jewel marine-container'></span>JavaScript</p>
+                                        </a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <hr style="margin:0" />
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">COMPUTER</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-4">
+                                        <a href="/computer-networks/" class="inverted" alt="Computer Network Tutorial">
+                                            <p><span class='jewel tree-green-container'></span>Computer Network</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/operating-system/" class="inverted" alt="Operating System Tutorial">
+                                            <p><span class='jewel light-purple-container'></span>Operating System</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/computer-architecture/" class="inverted" alt="Computer Architecture Tutorial">
+                                            <p><span class='jewel shamrock-container'></span>Computer Architecture</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr style="margin:0" />
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">GAME DEVELOPMENT</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-12">
+                                        <a href="/game-development-in-2D/" class="inverted" alt="Game Development with Unity Tutorial">
+                                            <p><span class='jewel yellow-container'></span>Game Development with Unity Engine</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr style="margin:0" />
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">DB</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-4">
+                                        <a href="/dbms/" class="inverted" alt="DBMS and SQL Tutorial">
+                                            <p><span class='jewel light-purple-container'></span>DBMS</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/mongodb/" class="inverted" alt="MongoDB Tutorial">
+                                            <p><span class='jewel tree-green-container'></span>MongoDB</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/plsql/" class="inverted" alt="PL/SQL Tutorial"><p><span class='jewel malibu-light-container'></span>PL/SQL</p></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr style="margin:0" />
+                        <div class="row">
+                            <div class="col-12">
+                                <p class="varela dark-grey nav-heading">MISCELLANEOUS</p>
+
+                                <div class="row nav-row">
+                                    <div class="col-4">
+                                        <a href="/github/" class="inverted" alt="GIT Tutorial">
+                                            <p><span class='jewel studio-container'></span><span class="jewel-double"></span>GIT</p>
+                                        </a>
+                                        <a href="/scrum-framework/" class="inverted" alt="Scrum Tutorial">
+                                            <p><span class='jewel light-purple-container'></span>Scrum Framework</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/jenkins/" class="inverted" alt="Jenkins Tutorial">
+                                            <p><span class='jewel malibu-container'></span>Jenkins</p>
+                                        </a>
+                                        <a href="/maven/" class="inverted" alt="Maven Tutorial">
+                                            <p><span class='jewel shamrock-container'></span>Maven</p>
+                                        </a>
+                                    </div>
+                                    <div class="col-4">
+                                        <a href="/apache-cordova/" class="inverted" alt="Apache Cordova Tutorial">
+                                            <p><span class='jewel studio-container'></span>Apache Cordova</p>
+                                        </a>
+                                        <a href="/drools/" class="inverted" alt="Drools Tutorial">
+                                            <p><span class='jewel malibu-light-container'></span>Drools</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li><a href="/tests/">Tests</a></li>
+            <li><a href="/curious/">Curious</a></li>
+            <li><a href="/code/playground/">Practice Coding</a></li>
+            <li><a href="/educators/">Become an Educator <sup class="malibu">NEW</sup></a></li>
+        </ul>
+
+        <ul class="nav navbar-nav pull-right hide-on-med-large show-on-bt">
+            <input type="checkbox" name="mobile-menu-toggle" id="mobile-menu-toggle" value="Hello" />
+            <label for="mobile-menu-toggle"><span class="glyphicon glyphicon-menu-hamburger"></span></label>
+            <div class="mobile-menu">
+                <a href="/library" class="inverted">
+                    <div class="mobile-menu-option">
+                        <div class="mobile-menu-option-title">Tutorials</div>
+                    </div>
+                </a>
+                <a href="/tests" class="inverted">
+                    <div class="mobile-menu-option">
+                        <div class="mobile-menu-option-title">Tests</div>
+                    </div>
+                </a>
+                <a href="/code/html" class="inverted">
+                    <div class="mobile-menu-option">
+                        <div class="mobile-menu-option-title">HTML Course</div>
+                    </div>
+                </a>
+                <a href="/curious" class="inverted">
+                    <div class="mobile-menu-option">
+                        <div class="mobile-menu-option-title">Curious</div>
+                    </div>
+                </a>
+                <a href="/educators" class="inverted">
+                    <div class="mobile-menu-option">
+                        <div class="mobile-menu-option-title">Become an Educator</div>
+                    </div>
+                </a>
+                                <a href="/login.php" class="inverted">
+                    <div class="mobile-menu-option-last">
+                        <div class="mobile-menu-option-title">Sign in</div>
+                    </div>
+                </a>
+                            </div>
+        </ul>
+
+                <div class="navbar-form navbar-right">
+        <!-- <a style="position:relative;top:-10px;color:#000000;padding:5px;border:solid 2px #000;border-radius:20px;" href="/career/">We are Hiring!</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+        <ul class="nav navbar-nav">
+            <li class="nav navbar-nav">
+                <div id="search-box" class="search-sign search-width-lg">
+                   <script>
+                    (function() {
+                    var cx = "013872321338711154866:maf3hfa7e60";
+                    var gcse = document.createElement("script");
+                    gcse.type = "text/javascript";
+                    gcse.async = true;
+                    gcse.src = "https://cse.google.com/cse.js?cx=" + cx;
+                    var s = document.getElementsByTagName("script")[0];
+                    s.parentNode.insertBefore(gcse, s);
+                    })();
+                    window.onload = function()
+                    {   
+                        var searchBox =  document.getElementById("gsc-i-id1");
+                        searchBox.placeholder = "Search Studytonight";
+                        searchBox.title = "Search Studytonight";
+                    }
+                   </script>
+                   <gcse:search></gcse:search>
+                </div>
+            </li>
+            <li class="pd-lf-rt hide-on-sm icon-list"><a href="https://www.youtube.com/c/Studytonight" target="_blank"><img class="youtube-icon" src="/css/resource.v2/icons/social/youtube-icon-text.png" alt="Subscribe to Studytonight Youtube Channel"></a></li>
+            
+            <li class="hide-on-sm icon-list"><a href="https://play.google.com/store/apps/details?id=com.studytonight.app" target="_blank"><img class="playstore" src="/css/resource.v2/icons/social/google-play-icon.png" alt="Download Studytonight Android App"></a></li>
+            
+            <li class="hide-on-small"><a class="nav_link" style="position:relative;top:-10px;" href="#" id="navLoginSignupBtn"><b>Sign in</b></a></li>
+        </ul>  
+
+        </div>
+
+            </div>
+</div>
+<!-- New tutorial section -->
+<div class="grey-container space-10" style="overflow-x: scroll;overflow-y:hidden;white-space: nowrap;">
+    <div><span class="roboto">New Tutorials:</span> &nbsp; 
+        <a href="/numpy" class="btn btn-sm btn-primary"> NUMPY </a>&nbsp;&nbsp;
+        <a href="/tkinter" class="btn btn-sm btn-primary"> TKINTER </a>&nbsp;&nbsp;
+        <a href="/kotlin" class="btn btn-sm btn-primary"> KOTLIN </a>&nbsp;&nbsp;
+        <a href="/javascript" class="btn btn-sm btn-primary"> JAVASCRIPT </a>&nbsp;&nbsp;
+        <a href="/sass" class="btn btn-sm btn-primary"> SASS/SCSS </a>&nbsp;&nbsp;
+        <a href="/plsql" class="btn btn-sm btn-primary"> PL/SQL </a>&nbsp;&nbsp;
+        <a href="/matplotlib" class="btn btn-sm btn-primary"> Matplotlib </a>&nbsp;&nbsp;
+        <a href="/cpp-programs" class="btn btn-sm btn-primary"> C++ Programs </a>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+    	<div class="col-12 text-center space-50">
+    		<h1 class="varela">Sorry! Page Not Found</h1>
+    	</div>
+    </div>
+
+    <div class="row">
+    	<div class="col-4 text-center">
+    		<img src="/css/resource/liontheguide.png" alt="Lion-the guide" title="Lion-the studytonight's guide"/>
+    		<h4 class="varela">I am Dante, <small>Studytonight's Guide</small></h4>
+    	</div>
+    	<div class="col-8">
+    	    <div class="card card-light space-20">
+    	        <p>Hello User,</p>
+        		<p>You are redirected here, to my Office, because we were not able to find the page, that you asked for.</p>
+        		<p>There can be many reasons for this <b>404 ERROR</b>.</p> 
+        		<p>I am not Sherlock Holmes, so don&#39;t expect any answer from me. </p>
+        		<p>But yeah! being the Official Guide of Studytonight, its my duty to walk you around.</p>
+        		<p>Unfortunately, as you can see, I need to brush my hair, they are so messed up, so please feel free to explore Studytonight.</p>
+        		<p>I love you too !</p><hr/>
+        		<p>Based on the link that you were trying to access, I think you should check the following links:</p>
+        		        		<p class="margin-20">
+        		            <a href="/library" target="_blank" class="btn btn-lg btn-terminal">TUTORIALS</a>&nbsp;&nbsp;
+        		            <a href="/tests" target="_blank" class="btn btn-lg btn-terminal">TESTS</a>&nbsp;&nbsp;
+        			        <a href="/studyroom" target="_blank" class="btn btn-lg btn-terminal">Q &amp; A FORUM</a>&nbsp;&nbsp;
+        			        <a href="/code/html" target="_blank" class="btn btn-lg btn-terminal">HTML COURSE</a>&nbsp;&nbsp;
+        		        </p>
+    		</div>
+    	</div>
+    </div>
+<br/><br/><br/>
+</div><!-- Container Ends here--> 
+<div class="border-top" id="footer">
+	<div class="container margin-30">
+		<div class="row darkest-grey roboto">
+			<div class="col-3  hide-on-med-small">
+				<p >What is Studytonight?</p>
+				<div>
+					<p><a href="/about">About Us</a></p>
+					<!-- p><a href="/howitworks">How it Works</a></p -->
+					<p><a href="/authors">Authors</a></p>
+					<p><a href="/collaborate">Collaborate</a></p>
+					<p><a href="/testimonials">Testimonials</a></p>
+					<p><a href="/privacy">Privacy Policy</a></p>
+					<p><a href="/terms">Terms</a></p>
+					<p><a href="/contact">Contact Us</a></p>
+					<p><a href="/suggest">Suggest</a></p>
+					<!-- p><a href="http://studytonight.tumblr.com" target="_blank">Blog</a></p -->
+				</div>
+			</div>
+			<div class="col-3">
+				<p>Tutorials</p>
+				<div>
+				    <p><a href="/android">Android</a></p>
+					<p><a href="/java">Core Java</a></p>
+					<p><a href="/cpp">C++</a></p>
+					<p><a href="/data-structures">Data Structures</a></p>
+					<p><a href="/python">Python</a></p>
+					<p><a href="/network-programming-in-python">Network Programming</a></p>
+					<p><a href="/dbms">DBMS &amp; SQL</a></p>
+					<p><a href="/servlet">Servlet</a></p>
+					<p><a href="/library">More...</a></p>
+				</div>
+			</div>
+			<div class="col-3">
+				<p>Tests</p>
+				<div>
+					<p><a href="/tests">Core Java</a></p>
+					<p><a href="/tests/?subject=android">Android</a></p>
+					<p><a href="/tests?/?subject=cpp">C++</a></p>
+					<p><a href="/tests?/?subject=dbms">DBMS</a></p>
+					<p><a href="/tests?/?subject=c">C Language</a></p>
+					<p><a href="/tests">More...</a></p>
+				</div>
+			</div>
+			<div class="col-3  hide-on-med-small">
+				<p>Learn to Code</p>
+				<div>
+					<p><a href="/code/html">HTML</a></p>
+					<p><a href="/cascading-style-sheet/">CSS</a></p>
+					<p><a href="/code/playground">Website Development</a></p>
+				</div>
+				
+				<p class="margin-20  hide-on-med-small">Interview Questions</p>
+				<div>
+				    <p><a href="/flashcards/Java">Java Interview Question</a></p>
+				    <p><a href="/flashcards/Cpp">C++ Interview Question</a></p>
+				    <p><a href="/flashcards/OS">OS Interview Question</a></p>
+				    <p><a href="/flashcards/Sql">DBMS Interview Question</a></p>
+				    <p><a href="/flashcards" target="blank">More...</a>
+				</div>
+			</div>
+		</div>
+	
+		<div class="row margin-20 roboto  hide-on-med-small">
+		    <div class="col-12">
+		        <p style="margin-left:-10px;">
+					<a href="http://facebook.com/Studytonight" target="_blank"><span class="facebook"></span></a>&nbsp;
+					<a href="http://twitter.com/studytonight" target="_blank"><span class="twitter"></span></a>&nbsp;
+					<a href="https://www.instagram.com/study.tonight/" target="_blank"><span class="instagram"></span></a>&nbsp;
+					<a href="https://www.linkedin.com/company/studytonight" target="_blank"><span class="linkedin"></span></a>
+				</p>
+				<p class="pull-right" style="margin-right:10px;">Made with <span class="glyphicon glyphicon-heart malibu"></span> by <a class="inverted" href="https://www.instagram.com/ahlawat.abhishek/" target="_blank">Abhishek Ahlawat</a></p>
+				<p>&copy; 2022 Studytonight Technologies Pvt. Ltd. &nbsp; <small>All rights reserved.</small></p>
+				<!-- <p><a href="//www.dmca.com/Protection/Status.aspx?ID=3075061c-0e86-4754-964b-d319a50d06af" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-01.png?ID=3075061c-0e86-4754-964b-d319a50d06af" alt="DMCA.com Protection Status"></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></p> -->
+		    </div>
+		</div>
+		<div class="center" style="min-height: 90px;overflow: auto;"><!-- StudyTonight_InFooter --><div data-ad='InFooter'></div></div>
+		<br/>
+	</div>
+</div>
+
+<!-- Feedback/Feedthem starts -->
+
+<!-- Feedback/Feedthem ends -->
+
+<!--START LOGIN/REGISTER MODAL-->
+<div class="modal fade" id="LoginSignupModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog margin-100">
+        <div class="modal-content">
+            <div class="modal-body">
+                
+            </div><!--modal-body -->
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!--END LOGIN/REGISTER MODAL-->
+
+<p id="urlid" hidden rel="">/python/images/multithreading-example-python.png</p>	
+
+<script src="https://static.studytonight.com/js/jquery.1642520442.js"></script>
+<script src="https://static.studytonight.com/js/common/sidebar.min.1642520442.js"></script>
+<script src="https://static.studytonight.com/js/utils.min.1642520442.js"></script>
+<script src="https://static.studytonight.com/js/bootstrap.v2.min.1642520442.js"></script>
+<script type="text/javascript" async defer src="https://static.studytonight.com/js/lazysizes.min.js">
+
+<script type="text/javascript">
+$("#navLoginSignupBtn").on("click",function(){$(".modal-body").load("/userauth/login_signup_form.php",function(){$("#LoginSignupModal").modal({show:!0})})}),$("body").on("click",".modal-body #loadSignupForm",function(){$(".modal-body").load("/userauth/login_signup_form.php?form=register",function(){$("#LoginSignupModal").modal({show:!0})})}),$("div.error-msg").hide();
+</script>
+
+<script type="text/javascript" src="https://static.studytonight.com/userauth/js/min/auth.1642520442.js"></script>
+
+<!-- BEGIN: Header Bidding -->
+<script type="text/javascript" defer src="https://static.studytonight.com/js/ascendeum/asc_prebid.1642520442.js"></script> 
+<!-- END: Header Bidding --> 
+
+<!-- for in-content ads -->
+<script>$(document).ready(function(){ let matched = $("#body-content p"); if(matched.length>10 && matched.length<20){ if(screen.width < 768) { let count1 = Math.floor(matched.length/3); let count2 = Math.floor((matched.length*2)/3); let el = document.getElementById("body-content"); let pth = $(el).find('p'); $(pth).eq(count1).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); $(pth).eq(count2).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); }else{ let count = Math.floor(matched.length/3); let el = document.getElementById("body-content"); let pth = $(el).find('p'); $(pth).eq(count).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); } } if(matched.length>20){ if(screen.width < 768) { let count1 = Math.floor(matched.length/4); let count2 = Math.floor((matched.length*2)/4); let count3 = Math.floor((matched.length*3)/4); let el = document.getElementById("body-content"); let pth = $(el).find('p'); $(pth).eq(count1).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); $(pth).eq(count2).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); $(pth).eq(count3).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); } else{ let count1 = Math.floor(matched.length/3); let count2 = Math.floor((matched.length*2)/3); let el = document.getElementById("body-content"); let pth = $(el).find('p'); $(pth).eq(count1).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); $(pth).eq(count2).append(`<div class="text-center"><div data-ad='InContent'></div></div>`); } } });
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39722043-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></body>
+</html>
