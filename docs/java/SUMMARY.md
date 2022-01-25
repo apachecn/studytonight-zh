@@ -1,4 +1,4 @@
-+   [StudyTonight java 中文教程](README.md)
++   [StudyTonight Java 中文教程](README.md)
 +   [Java 核心](0001.md)
     +   [Java 基础](0002.md)
     +   [Java 简介](0003.md)

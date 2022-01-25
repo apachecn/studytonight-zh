@@ -1,4 +1,4 @@
-# StudyTonight java 中文教程
+# StudyTonight Java 中文教程
 
 > 原文：[StudyTonight](https://www.studytonight.com/)
 > 
