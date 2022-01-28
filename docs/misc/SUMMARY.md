@@ -49,7 +49,7 @@
     +   [如何在 Ubuntu 18.04 上安装和配置 GitLab](048.md)
     +   [如何在 CentOS 7 上安装 Anaconda](049.md)
     +   [如何在 CentOS 7 上设置或更改时区](050.md)
-+   [`ElasticSearch](051.md)
++   [ElasticSearch](051.md)
     +   [基础知识](052.md)
     +   [什么是 ElasticSearch？](053.md)
 +   [Docker](054.md)
