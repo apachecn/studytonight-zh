@@ -34,7 +34,7 @@
 
 ### Docker
 
-```c
+```
 docker pull apachecn0/studytonight-zh
 docker run -tid -p <port>:80 apachecn0/studytonight-zh
 # 访问 http://localhost:{port} 查看文档
@@ -42,7 +42,7 @@ docker run -tid -p <port>:80 apachecn0/studytonight-zh
 
 ### PYPI
 
-```c
+```
 pip install studytonight-zh
 studytonight-zh <port>
 # 访问 http://localhost:{port} 查看文档
@@ -50,7 +50,7 @@ studytonight-zh <port>
 
 ### NPM
 
-```c
+```
 npm install -g studytonight-zh
 studytonight-zh <port>
 # 访问 http://localhost:{port} 查看文档
