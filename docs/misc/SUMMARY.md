@@ -1,6 +1,6 @@
 +   [StudyTonight 杂项中文教程](README.md)
 +   [Linux](001.md)
-    +   [Linux 基础版](002.md)
+    +   [Linux 基础](002.md)
     +   [Bash `if..else`语句](003.md)
     +   [Bash `for`语句](004.md)
     +   [理解 Linux（Unix）中的文件权限](005.md)
